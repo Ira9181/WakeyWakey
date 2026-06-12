@@ -1,4 +1,4 @@
-# wakeywakey
+# WakeyWakey
 
 A new Flutter project.
 
