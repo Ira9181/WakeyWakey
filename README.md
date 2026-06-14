@@ -170,7 +170,7 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Ira**
-- GitHub: [@yourusername](https://github.com/Ira9181)
+- GitHub: https://github.com/Ira9181
 
 ---
 
