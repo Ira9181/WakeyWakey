@@ -161,11 +161,6 @@ This project is currently in active development. Contributions, issues, and feat
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👤 Author
 
