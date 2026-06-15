@@ -169,4 +169,5 @@ This project is currently in active development. Contributions, issues, and feat
 
 ---
 
-> ⚠️ **Note:** This README will be updated as new features are completed. Current status: **in progress.**
+> ⚠️ **Note:** This README will be updated as new features are completed.
+> Current status: **in progress.**
