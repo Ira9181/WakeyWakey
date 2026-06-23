@@ -161,17 +161,13 @@ This project is currently in active development. Contributions, issues, and feat
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👤 Author
 
 **Ira**
-- GitHub: [@yourusername](https://github.com/Ira9181)
+- GitHub: https://github.com/Ira9181
 
 ---
 
-> ⚠️ **Note:** This README will be updated as new features are completed. Current status: **Phase 1–4 in progress.**
+> ⚠️ **Note:** This README will be updated as new features are completed.
+> Current status: **in progress.**
