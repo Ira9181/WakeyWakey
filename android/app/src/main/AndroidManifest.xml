@@ -51,6 +51,10 @@
         android:showWhenLocked="true"
         android:turnScreenOn="true">
 
+        <meta-data
+            android:name="flutterEmbedding"
+            android:value="2" />
+
         <!-- Main Flutter Activity -->
         <activity
             android:name=".MainActivity"
